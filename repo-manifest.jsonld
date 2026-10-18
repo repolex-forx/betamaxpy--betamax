@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/betamaxpy/betamax/commit/8f3d284103676a43d1481b5cffae96f3a601e0be",
       "git:hexsha": "8f3d284103676a43d1481b5cffae96f3a601e0be",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/betamaxpy/betamax/commit/f20ec86d3ea8e3b0c2eacd4c06377db72ed5ae8b",
