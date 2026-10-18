@@ -1,0 +1,11 @@
+{
+  "org": "betamaxpy",
+  "repo": "betamax",
+  "versions": [
+    {
+      "commit": "8f3d284103676a43d1481b5cffae96f3a601e0be",
+      "tag": "",
+      "parsed_at": "2026-10-18T06:11:03.550317+00:00"
+    }
+  ]
+}
